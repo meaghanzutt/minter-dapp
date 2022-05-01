@@ -54,7 +54,7 @@ const CONTRACT_SYMBOL = 'MUSUBI';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x273d36F24B74145C19dFA8C25FfbEe0d0aAA88Fc';
 const TREASURY_ADDRESS = '0x273d36F24B74145C19dFA8C25FfbEe0d0aAA88Fc';
-const MAX_SUPPLY = 20; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 100; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = .01; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
