@@ -1,6 +1,7 @@
 const path = require("path");
 const basePath = process.cwd();
 const fs = require("fs");
+const { PRESALE_MINT_START_DATE } = require("../../src/config");
 const buildDir = path.join(basePath, "/build");
 
 const {
@@ -21,7 +22,7 @@ const genericObject = {
   "description": GENERIC_DESCRIPTION,
   "image": GENERIC_IMAGE,
   "external_url": extraMetadata.external_url || null,
-  "date": "2022-05-20T06:00:48+00:00"
+  "date": PRESALE_MINT_START_DATE,
   "compiler": "HashLips Art Engine - codeSTACKr Modified"
 }
 
