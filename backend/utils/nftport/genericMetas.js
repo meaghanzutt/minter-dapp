@@ -21,7 +21,7 @@ const genericObject = {
   "description": GENERIC_DESCRIPTION,
   "image": GENERIC_IMAGE,
   "external_url": extraMetadata.external_url || null,
-  "date": 1647039293429,
+  "date": "2022-05-20T06:00:48+00:00"
   "compiler": "HashLips Art Engine - codeSTACKr Modified"
 }
 
