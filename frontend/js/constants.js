@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Ms Iwaleilani'z NFT Shop. Have a mint!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = "The musuWAHINE project is a decentralized, Hawaiian owned project that aims to demonstrate how to develope and launch your own NFT Collection, onboard friends and family to Web 3 and create awareness for the Hawaiian culture and history";
+const welcome_p = "The musuWAHINE project is a decentralized, Hawaiian owned project that aims to share the aloha spirit, Hawaiian history and culture whilel onboarding and teaching others how to start their own NFT project.";
 const h1_presale_coming_soon = "First Drop Coming Soon!!";
 const h1_presale_mint = "Hiki Mua Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
