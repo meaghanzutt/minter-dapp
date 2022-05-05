@@ -1,9 +1,9 @@
 const contractAddress = "0xC08941C961a806A88C16658A7C5066Dd59b11999"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to Ms Iwaleilani'z NFT Shop. Have a mint!!";
+const welcome_h1 = "Welcome to Ms Iwaleilani'z NFT Shop. Have a musubi!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = "The musuWAHINE project is a decentralized, Hawaiian owned project that aims to share the aloha spirit, Hawaiian history and culture whilel onboarding and teaching others how to start their own NFT project.";
+const welcome_p = "The musuWAHINE project is a decentralized, Hawaiian owned project.";
 const h1_presale_coming_soon = "First Drop Coming Soon!!";
 const h1_presale_mint = "Hiki Mua Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
